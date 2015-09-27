@@ -1,0 +1,7 @@
+# logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+/menv
